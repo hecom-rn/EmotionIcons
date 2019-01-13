@@ -1,0 +1,13 @@
+{
+  "name": "@hecom/emotion-icons",
+  "version": "0.0.1",
+  "description": "Emotion Icons Collection",
+  "main": "dist/index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.com:hecom/emotion-icons.git"
+  },
+  "author": "Xiaosong Gao",
+  "license": "MIT"
+}
